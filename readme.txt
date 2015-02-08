@@ -42,6 +42,11 @@ Google Locker is a plugin help you to get more Share/Subscribe, traffic and cust
 
 * [http://ssldemo.wptp.net/](http://ssldemo.wptp.net/)
 
+### Other Plugins
+
+* Social Sticky by WPTP Net ([https://wordpress.org/plugins/social-sticky](https://wordpress.org/plugins/social-sticky))
+* Secure Social Locker ([http://ssldemo.wptp.net/](http://ssldemo.wptp.net/))
+
 ### Plugin's Official Site
 
 * Google Locker by WPTP Net ([http://www.wptp.net](http://www.wptp.net/))
