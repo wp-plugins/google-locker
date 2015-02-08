@@ -1,7 +1,7 @@
 === Google Locker ===
 Contributors: wptpnet
 Donate link: http://www.wptp.net
-Tags: social, secure social locker, google locker, color, effect, google, locker, wordpress, color, google plus, google share, locker, preview, seo, social locker, tracking, unlimited, youtube, youtube subscribe
+Tags: social, secure social locker, google locker, color, effect, google, locker, wordpress, color, google plus, google share, preview, seo, social locker, tracking, unlimited, youtube, youtube subscribe, twitter, linkedin
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.0
