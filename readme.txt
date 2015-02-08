@@ -29,7 +29,7 @@ Google Locker is a plugin help you to get more Share/Subscribe, traffic and cust
 * Multiple Lockers on the same Page and Post.
 * Powered by jQuery (noConflict mode).
 
-### Primium Features (Secure Social Locker)
+### Premium Features (Secure Social Locker)
 
 * Facebook Like & Share support.
 * Twitter Tweet & Follow support.
